@@ -12,5 +12,5 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-![The Adafruit Discord Badge](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/badges/adafruit_discord.svg)
+
 
