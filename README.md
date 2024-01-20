@@ -1,9 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **rstar24/rstar24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# About Me
+## About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
