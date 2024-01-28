@@ -5,4 +5,4 @@
 -->
 ## About Me
 * I like to hear 🎹 music and play football 🏐
-* I also like to ✍️ some code when get the inspirations.
+* I also like to ✍️ some code when I have the inspirations.
