@@ -1,13 +1,12 @@
 # Hi there 👋
-
-
 <!--
 **rstar24/rstar24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 ## About Me
-* I like to play football 🏐
-* I also like to ✍️ some code.
-* I love GTA (Don't ask which one).
+* Loves GTA (Don't ask which one).
+* Likes to play football 🏐.
+* Also likes to ✍️ some code.
 * Generally open to conversations but prefers to be introvert when needed to be.
 
 # My Total Stars
