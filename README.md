@@ -9,7 +9,5 @@
 * Also likes to ✍️ some code.
 * Generally open to conversations but prefers to be introvert when needed to be.
 
-# My Total Stars
-
 # My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rstar24&theme=dark&background=000000)](https://git.io/streak-stats)
